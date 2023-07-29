@@ -1,0 +1,16 @@
+
+## Editor
+.vscode/*
+*~
+\#*\#
+
+## Other
+.DS_STORE
+
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
